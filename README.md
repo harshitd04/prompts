@@ -1,5 +1,5 @@
 #Prompts
-<h3>80-20 Principle prompt for notes. </h3>
+<h3>80-20 Principle prompt for Important topics. </h3>
   <p>This is my Cyber Security Syllabus shared by my teacher for the upcoming exam, it will be based on this only. What are the 20% topics that would be responsible for 80% of the marks and then      what are the Medium-Weightage Topics (30%)
   
   
