@@ -1,0 +1,13 @@
+This is the example practical given to us of our software engineering lab in the <practical> tags.
+<practical>
+TO CREATE DEPLOYMENT DIAGRAM
+A Deployment Diagram is a type of graphical representation used in the Unified Modeling Language (UML) to model the deployment of artifacts and systems to a specific environment. It is used to visualize the physical infrastructure, hardware, and software components that make up a system.
+A Deployment Diagram typically consists of: Nodes: Representing physical devices, such as computers, servers, or networks. Artifacts: Representing software components, such as applications, services, or databases. Connections: Representing the relationships between nodes and artifacts. Boundary: Representing the physical or logical boundaries between nodes and artifacts. Types of Deployment Diagrams: Physical Deployment Diagram: Focuses on the physical deployment of artifacts and systems.
+Logical Deployment Diagram: Focuses on the logical deployment of artifacts and systems, without considering the physical infrastructure. Deployment Diagram symbols: Node: () Artifact: () Connection: () Boundary: ()
+Benefits of using Deployment Diagrams: Improved understanding: Helps to clarify complex system deployments and infrastructure. Simplified design: Breaks down complex system deployments into smaller, more manageable components. Better communication: Facilitates communication among stakeholders and team members. Improved testing: Helps to identify potential issues and test the deployment.
+
+User --> App : Place Order App -> DB : Save Order Data DB --> App : Confirm Order App --> User : Delivery Status
+
+</practical>
+
+i have also inserted the image with this. i want you to make me similar DEPLOYMENT diagram based on the given data on the topic Amazon inventory management system.
